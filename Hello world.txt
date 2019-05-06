@@ -1,1 +1,2 @@
+writeln ("1");
 println ("Hello world");
